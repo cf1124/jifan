@@ -558,7 +558,7 @@
     "y18n": "^3.2.1",
     "ordered-read-streams": "^1.0.1",
     "yargs": "^7.1.0",
-    "yargs-parser": "^5.0.0"
+    "yargs-parser": "^20.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
